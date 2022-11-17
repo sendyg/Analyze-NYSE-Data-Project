@@ -6,8 +6,7 @@ After exploratory analysis of the data, created a financial metrics and forecast
 
 <ul>
   <li> Presentation file of Which GICS Sectors spent more on Research & Development from 2013 to 2015? </li>
-  <li> Spreadsheets file contains: </li>
-    <li> P&L statement dashboard </li>
-    <li> Forecast scenarios for 2 years </li>
-    <li> Dataset </li>
+  <li> Spreadsheets file contains: P&L statement dashboard, Forecast scenarios for 2 years, and Dataset </li>
+    
+
 
